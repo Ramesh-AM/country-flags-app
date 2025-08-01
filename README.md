@@ -12,3 +12,13 @@ This is a simple React application that displays country flags using data from t
 ```bash
 npm install
 npm start
+
+
+---
+
+### 🔹 2. **Stage and commit the file**
+```bash
+git add README.md
+git commit -m "Add README file"
+
+git push origin main
